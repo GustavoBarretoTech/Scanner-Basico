@@ -9,3 +9,6 @@ Repositório com ferramentas simples de scan.
 *   **ping_scan.py**: Integração com NMAP via linguagem de script do sistema operacional para análise de dispositivos ativos.
 *   **menuRedes.py**: script que da opção ao usuário de ver seu IP e senha do wifi conectado, conforme o sistema operacional
 *   **Shell_Powershell.py**: versao mais simples ainda que o menuRedes.py
+*   **Keylogger**: Script básico que simula o funcionamento de um keylogger, enviando caractere por caractere
+*   **Interfaces Gráficas**: Alguns projetos tem suas versões GUI
+
