@@ -1,11 +1,9 @@
-#ScannerCLI:
+# 🔍 Scanner Básico de Rede
 
-script básico pra simular o funcionamento de um scanner de portas de rede, recebendo do usuario um IP(ou url que será convertid em IP), e em seguida executando o scan
+Repositório com ferramentas simples de scan.
 
-#ScannerGUI:
+## 🚀 Scripts incluídos:
 
-mesmo princípio, mas com interface gráfica(foi "powered" por inteligência artificial)
-
-#ping_scan.py:
-
-Script simples que integra o uso de linguagens de script para o sistema operacional, utilizando e aproveitando a saída do NMAP
+*   **ScannerCLI.py**: Script via terminal para scan de portas a partir de um IP ou URL.
+*   **ScannerGUI.py**: Versão com interface gráfica (desenvolvida com auxílio de IA).
+*   **ping_scan.py**: Integração com NMAP para análise de dispositivos ativos.
