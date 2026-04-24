@@ -1,7 +1,5 @@
 import subprocess
 import platform
-# import re
-
 
 def menu():
     os = platform.system()
