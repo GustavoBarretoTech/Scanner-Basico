@@ -10,7 +10,7 @@ try:
     if "1 received" in ping.stdout:
         print(f"----- ALVO VIVO! Iniciando varredura de portas -----\n")
         
-        # -F para ser rápido, -sV para pegar as versões (útil para achar exploits depois)
+        # -F para ser rápido, -sV para pegar as versões
         nmap = subprocess.run(f"nmap -F -sV {ip_metasploitable}",
                               shell=True,
                               capture_output=True,
